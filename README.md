@@ -1,15 +1,11 @@
 <img src="https://github.com/user-attachments/assets/bafab48c-5d86-4429-b8df-746a7e6eee50" width="900" height="400" />
 
 <h1 align="center">Hi 👋, I'm Kaan</h1>
-<h3 align="center">A passionate game designer!</h3>
+<h3 align="center">A passionate developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaanozor&label=Profile%20views&color=0e75b6&style=flat" alt="kaanozor" /> </p>
 
-- 🎮 A Passionate Game Designer!
 
-- 🔭 I’m currently exploring game design topics.
-- 🌱 I’m deepening my knowledge in game development.
-- ⚡ Fun fact: I have a creative side and enjoy working on pixel art!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
